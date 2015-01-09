@@ -1,3 +1,11 @@
+#top{
+	background: rgba(0,0,0,0.5);
+}
+
+.navtext{
+	color:white;
+}
+
 #TitleName{
 	text-align:center;
 }
@@ -12,5 +20,10 @@
 
 .intro-page{
 	background-image: url("../img/nyc-background.jpg");
+	background-size:100%;
+}
+
+.about-me{
+	background-image: url("../img/brandenberg.jpg");
 	background-size:100%;
 }
