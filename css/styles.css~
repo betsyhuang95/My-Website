@@ -1,0 +1,16 @@
+#TitleName{
+	text-align:center;
+}
+
+#TitleDivText{
+	background: rgba(255,255,255,0.5);
+}
+
+#TitleDiv{
+	padding-top: 5%;
+}
+
+.intro-page{
+	background-image: url("../img/nyc-background.jpg");
+	background-size:100%;
+}

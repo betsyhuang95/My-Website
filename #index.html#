@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Elle Huang </title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/styles.css" rel="stylesheet">
+</head>
+<body class="intro-page">
+<nav class="collapse navbar-collapse bs-navbar-collapse">
+<ul class="nav navbar-nav">
+<li>
+  <a href="./about-me.html">About Me</a>
+</li>
+<li>
+  <a href="./resume.pdf"> Resume </a>
+</li>
+</ul>
+</nav>
+<h1 id="TitleName"> Elle Huang </h1>
+<h1 id="TitleName"> Student at the University of Notre Dame Class of 2017 </h1>
+</body>
+
+</html>

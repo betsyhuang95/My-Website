@@ -1,0 +1,24 @@
+#top{
+	background: rgba(0,0,0,0.5);
+}
+#TitleName{
+	text-align:center;
+}
+
+#TitleDivText{
+	background: rgba(255,255,255,0.5);
+}
+
+#TitleDiv{
+	padding-top: 5%;
+}
+
+.intro-page{
+	background-image: url("../img/nyc-background.jpg");
+	background-size:100%;
+}
+
+.about-me{
+	background-image: url("../img/brandenberg.jpg");
+	background-size:100%;
+}
