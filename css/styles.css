@@ -36,7 +36,7 @@
 
 .intro-page{
 	background-image: url("../img/nyc-background.jpg");
-	background-size:100%;
+	background-size:cover;
 }
 
 .about-me{
