@@ -47,9 +47,13 @@
 #About-Me-Image{
 	position:absolute;
 	float:left;
-	margin-left:15%;
-	width: 30%;
+	width:30%;
 }
+
+.ProfilePic{
+	width:100%;
+}
+
 .contact-page{
 	background-image: url("../img/brazil-background.jpg");
 	background-size:100%;
