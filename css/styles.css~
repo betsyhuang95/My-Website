@@ -1,0 +1,96 @@
+#top{
+	background: rgba(0,0,0,0.8);
+}
+
+#navtext{
+	color:#FFFFFF;
+}
+
+#TitleName{
+	text-align:center;
+}
+
+#TitleDivText{
+	background: rgba(255,255,255,0.5);
+}
+
+
+#AboutMe{
+	position:relative;
+	margin-left:10%;
+	width:80%;
+	background: rgba(255,255,255,0.5);
+
+}
+
+#AboutMeText{
+	background:rgba(255,255,255,0.5);
+	float:right;
+	margin-left:50%;
+
+}
+
+#TitleDiv{
+	padding-top: 5%;
+}
+
+.intro-page{
+	background-image: url("../img/nyc-background.jpg");
+	background-size:100%;
+}
+
+.about-me{
+	background-image: url("../img/berlin-background.jpg");
+	background-size:100%;
+}
+
+#About-Me-Image{
+	position:absolute;
+	float:left;
+	margin-left:15%;
+	width: 30%;
+}
+.contact-page{
+	background-image: url("../img/brazil-background.jpg");
+	background-size:100%;
+}
+
+#Contact-Me-Text{
+	width:50%;
+	margin:auto;
+	text-align:center;
+	background: rgba(255,255,255,0.5);
+}
+
+.skills-page{
+	background-image: url("../img/china-background.jpg");
+	background-size:100%;
+}
+
+#Contact-Me-text{
+	font-size:150%;
+}
+
+#About-Me-text-top{;
+	padding-top:5%;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom: 3%;
+	font-size:150%;
+}
+
+#About-Me-text-bottom{
+	padding: 5%;
+	padding-top:0%;
+	font-size:150%;
+}
+
+#Skills-text{
+	text-align:center;
+	font-size:150%;
+	width:80%;
+	margin-top:10%;
+	margin:auto;
+	background: rgba(255,255,255,0.5);
+
+}
