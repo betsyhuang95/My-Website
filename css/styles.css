@@ -24,6 +24,11 @@ a{
 }
 
 .about-me{
-	background-image: url("../img/brandenberg.jpg");
+	background-image: url("../img/berlin-background.jpg");
+	background-size:100%;
+}
+
+.contact-me{
+	background-image: url("../img/brazil-background.jpg");
 	background-size:100%;
 }
