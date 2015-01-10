@@ -37,14 +37,14 @@
 .intro-page{
 	background-image: url("../img/nyc-background.jpg");
 	max-width:100%;
-	height: auto;
+	height: 1000px;
 	background-size:cover;
 }
 
 .about-me{
 	background-image: url("../img/berlin-background.jpg");
 	max-width:100%;
-	height: auto;
+	height: 1000px;
 	background-size:cover;
 }
 
@@ -61,7 +61,7 @@
 .contact-page{
 	background-image: url("../img/brazil-background.jpg");
 	max-width:100%;
-	height: auto;
+	height: 1000px;
 	background-size:cover;
 }
 
@@ -75,7 +75,7 @@
 .skills-page{
 	background-image: url("../img/china-background.jpg");
 	max-width:100%;
-	height: auto;
+	height: 1000px;
 	background-size:cover;
 
 }
