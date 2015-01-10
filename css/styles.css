@@ -14,10 +14,14 @@
 	background: rgba(255,255,255,0.5);
 }
 
+.ProfilePic{
+	width:30%;
+	margin-left:35%;
+}
+
 #AboutMeText{
+	margin-left:10%;
 	width:80%;
-	margin-top:10%;
-	margin:auto;
 	background: rgba(255,255,255,0.5);
 
 }
