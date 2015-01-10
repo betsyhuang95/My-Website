@@ -14,15 +14,19 @@
 	background: rgba(255,255,255,0.5);
 }
 
-.ProfilePic{
-	width:30%;
-	margin-left:35%;
-}
 
-#AboutMeText{
+#AboutMe{
+	position:relative;
 	margin-left:10%;
 	width:80%;
 	background: rgba(255,255,255,0.5);
+
+}
+
+#AboutMeText{
+	background:rgba(255,255,255,0.5);
+	float:right;
+	margin-left:50%;
 
 }
 
@@ -40,6 +44,12 @@
 	background-size:100%;
 }
 
+#About-Me-Image{
+	position:absolute;
+	float:left;
+	margin-left:15%;
+	width: 30%;
+}
 .contact-page{
 	background-image: url("../img/brazil-background.jpg");
 	background-size:100%;
