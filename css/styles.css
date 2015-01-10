@@ -47,3 +47,8 @@
 	text-align:center;
 	background: rgba(255,255,255,0.5);
 }
+
+.skills-page{
+	background-image: url("../img/china-background.jpg");
+	background-size:100%;
+}
