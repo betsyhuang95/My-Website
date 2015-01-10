@@ -14,6 +14,14 @@ a{
 	background: rgba(255,255,255,0.5);
 }
 
+#AboutMeText{
+	width:80%;
+	margin-top:10%;
+	margin:auto;
+	background: rgba(255,255,255,0.5);
+
+}
+
 #TitleDiv{
 	padding-top: 5%;
 }
