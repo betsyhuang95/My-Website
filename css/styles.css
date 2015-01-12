@@ -39,6 +39,7 @@
 	max-width:100%;
 	height: 100%;
 	background-size:cover;
+	background-repeat:no-repeat;	
 }
 
 .about-me{
@@ -46,6 +47,8 @@
 	max-width:100%;
 	height: 100%;
 	background-size:cover;
+	background-repeat:no-repeat;	
+
 }
 
 #About-Me-Image{
@@ -63,6 +66,7 @@
 	max-width:100%;
 	height: 100%;
 	background-size:cover;
+	background-repeat:no-repeat;	
 }
 
 #Contact-Me-Text{
@@ -77,6 +81,8 @@
 	max-width:100%;
 	height: 100%;
 	background-size:cover;
+	background-repeat:no-repeat;	
+
 
 }
 
