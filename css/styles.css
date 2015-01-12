@@ -1,3 +1,10 @@
+html{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 #top{
 	background: rgba(0,0,0,0.8);
 }
