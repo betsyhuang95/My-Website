@@ -21,7 +21,7 @@ html{
 
 #AboutMe{
 	position:relative;
-	margin-left:20%;
+	margin-left:17%;
 	width:80%;
 	background: rgba(255,255,255,0.5);
 
@@ -60,7 +60,7 @@ html{
 }
 
 .ProfilePic{
-	width:100%;
+	width:150%;
 }
 
 .contact-page{
