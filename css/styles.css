@@ -21,7 +21,7 @@ html{
 
 #AboutMe{
 	position:relative;
-	margin-left:17%;
+	margin-left:18%;
 	width:80%;
 	background: rgba(255,255,255,0.5);
 
@@ -35,7 +35,7 @@ html{
 }
 
 #TitleDiv{
-	padding-top: 5%;
+	padding-top: 10%;
 }
 
 .intro-page{
@@ -60,7 +60,7 @@ html{
 }
 
 .ProfilePic{
-	width:150%;
+	width:125%;
 }
 
 .contact-page{
