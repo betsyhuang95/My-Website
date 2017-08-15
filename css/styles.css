@@ -39,14 +39,14 @@ html{
 }
 
 .intro-page{
-	background-image: url("../img/nyc-background.jpg");
+	background-image: url("./img/nyc-background.jpg");
 	background-size:cover;
 	background-attachment: fixed;
 	background-repeat:no-repeat;	
 }
 
 .about-me{
-	background-image: url("../img/berlin-background.jpg");
+	background-image: url("./img/berlin-background.jpg");
 	background-size:cover;
 	background-attachment: fixed;
 	background-repeat:no-repeat;	
